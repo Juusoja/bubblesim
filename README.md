@@ -1,4 +1,6 @@
 # bubblesim
 
-Bubble simulator
-Xiyu Wang 749439
+This simple python program simulates stock bubbles.
+
+To run:
+
